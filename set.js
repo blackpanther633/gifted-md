@@ -1,4 +1,4 @@
-// Hi Buddy,
+Gifted~7EhCELwb#TiKzxKOIKwrFQnqOXcIo9fY_J4S2fxf8nBKbL65w6v0
 // Edit Anything Here Except ones Indicated "DO NOT"...
 const fs = require('fs'), 
       dotenv = fs.existsSync('config.env') ? require('dotenv').config({ path: '/.env' }) : undefined,
